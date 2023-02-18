@@ -65,7 +65,7 @@ export default class report extends Component {
           <Container>
             <Navbar.Brand href="#">ค้นหาเลขไปรษณีย์</Navbar.Brand>
             <div style={{color:"#FFFF00", fontSize:"25px"}}> 
-            65230141 Suthinee Wantha
+            65230141 สุธินี วรรณทา
             </div>
           </Container>
         </Navbar>
